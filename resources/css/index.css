@@ -1,0 +1,31 @@
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-family: monospace;
+    text-align: center;
+    color: blueviolet;
+}
+
+table {
+    border: solid blueviolet;
+    margin: 0 auto;
+    width: 700px;
+}
+
+th {
+    background-color: pink;
+}
+
+td {
+    border-top: solid blueviolet;
+}
+
+.property {
+    background-color: beige;
+}
